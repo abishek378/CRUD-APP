@@ -10,13 +10,12 @@ import Nopage from './screens/Nopage';
 import Update from './components/Update';
 import reportWebVitals from './reportWebVitals';
 
-import {BrowserRouter,Routes,Route,HashRouter as Router} from 'react-router-dom'
+import {HashRouter,Routes,Route} from 'react-router-dom'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Router>
-          <BrowserRouter>
+    <HashRouter>
     <Navbar />
     <Routes>
       <Route path="/" element={<App />} />
@@ -27,8 +26,7 @@ root.render(
 
       <Route path="*" element={<Nopage />} />
     </Routes>
-    </BrowserRouter></Router>
-
+    </HashRouter>
   
   </React.StrictMode>
 );
