@@ -90,30 +90,3 @@ code {
 
   
 
-
-
-  @media screen and (max-width: 768px) {
-    .home {
-      flex-direction: column;
-      height: auto;
-      align-items: center;
-    }
-  
-    .home > h1 {
-      width: 80%;
-      margin: 20px;
-      bottom: initial;
-      position: static;
-    }
-  
-    .home_form {
-      width: 80%;
-      margin-right: 0;
-    }
-  
-    .home_form > button {
-      width: 100%;
-      margin-top: 20px;
-    }
-  }
-  
