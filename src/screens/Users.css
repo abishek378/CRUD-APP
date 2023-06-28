@@ -36,28 +36,25 @@ td{
 
 
 
-
 @media screen and (max-width: 768px) {
-    .users {
-      margin: 40px 20px;
-    }
-  
-    .users > table {
-      font-size: 14px;
-    }
-  
-    th {
-      height: 25px;
-      font-size: 12px;
-    }
-  
-    tr {
-      background-color: white;
-    }
-  
-    td {
-      font-size: 12px;
-      padding: 3px;
-    }
+  .users {
+    margin: 40px 20px;
   }
-  
+
+  .users > table {
+    font-size: small;
+  }
+
+  th {
+    height: 20px;
+  }
+
+  tr {
+    background-color: white;
+  }
+
+  td {
+    font-size: small;
+    padding: 3px;
+  }
+}

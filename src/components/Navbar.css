@@ -39,18 +39,16 @@ ul > a:hover{
 }
 
 
-
 @media screen and (max-width: 768px) {
-    nav {
-      height: 100px;
-    }
-  
-    nav > h1 {
-      font-size: 30px;
-    }
-  
-    ul {
-      width: 60%;
-    }
+  nav {
+    height: 100px;
   }
-  
+
+  nav > h1 {
+    font-size: 30px;
+  }
+
+  ul {
+    width: 60%;
+  }
+}

@@ -58,24 +58,22 @@
     margin: 15px;
 }
 
-
 @media screen and (max-width: 768px) {
-    .contact {
-      bottom: 0;
-    }
-  
-    .contact_container {
-      flex-direction: column;
-      align-items: center;
-    }
-  
-    .contact_container > div {
-      width: 80%;
-    }
-  
-    #phno {
-      bottom: -20px;
-      font-size: small;
-    }
+  .contact {
+    bottom: 0;
   }
-  
+
+  .contact_container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contact_container > div {
+    width: 80%;
+  }
+
+  #phno {
+    bottom: -20px;
+    font-size: small;
+  }
+}
