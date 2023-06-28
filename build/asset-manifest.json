@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abishek378/user-crud/static/css/main.4fc79e22.css",
-    "main.js": "/abishek378/user-crud/static/js/main.6e3dcbe0.js",
-    "static/js/787.96d01803.chunk.js": "/abishek378/user-crud/static/js/787.96d01803.chunk.js",
-    "index.html": "/abishek378/user-crud/index.html",
-    "main.4fc79e22.css.map": "/abishek378/user-crud/static/css/main.4fc79e22.css.map",
-    "main.6e3dcbe0.js.map": "/abishek378/user-crud/static/js/main.6e3dcbe0.js.map",
-    "787.96d01803.chunk.js.map": "/abishek378/user-crud/static/js/787.96d01803.chunk.js.map"
+    "main.css": "/abishek378/CRUD-APP/static/css/main.4fc79e22.css",
+    "main.js": "/abishek378/CRUD-APP/static/js/main.f2c75115.js",
+    "static/js/787.96d01803.chunk.js": "/abishek378/CRUD-APP/static/js/787.96d01803.chunk.js",
+    "index.html": "/abishek378/CRUD-APP/index.html",
+    "main.4fc79e22.css.map": "/abishek378/CRUD-APP/static/css/main.4fc79e22.css.map",
+    "main.f2c75115.js.map": "/abishek378/CRUD-APP/static/js/main.f2c75115.js.map",
+    "787.96d01803.chunk.js.map": "/abishek378/CRUD-APP/static/js/787.96d01803.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fc79e22.css",
-    "static/js/main.6e3dcbe0.js"
+    "static/js/main.f2c75115.js"
   ]
 }
