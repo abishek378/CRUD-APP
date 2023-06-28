@@ -34,3 +34,30 @@ td{
     
 }
 
+
+
+
+@media screen and (max-width: 768px) {
+    .users {
+      margin: 40px 20px;
+    }
+  
+    .users > table {
+      font-size: 14px;
+    }
+  
+    th {
+      height: 25px;
+      font-size: 12px;
+    }
+  
+    tr {
+      background-color: white;
+    }
+  
+    td {
+      font-size: 12px;
+      padding: 3px;
+    }
+  }
+  

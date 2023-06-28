@@ -37,3 +37,20 @@ font-weight: 700;
 ul > a:hover{
     color:rgba(0, 0,0,.6);
 }
+
+
+
+@media screen and (max-width: 768px) {
+    nav {
+      height: 100px;
+    }
+  
+    nav > h1 {
+      font-size: 30px;
+    }
+  
+    ul {
+      width: 60%;
+    }
+  }
+  
