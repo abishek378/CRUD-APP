@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/CRUD-APP/static/css/main.4fc79e22.css",
-    "main.js": "/CRUD-APP/static/js/main.91e7ae79.js",
-    "static/js/787.96d01803.chunk.js": "/CRUD-APP/static/js/787.96d01803.chunk.js",
+    "main.css": "/CRUD-APP/static/css/main.b70b0036.css",
+    "main.js": "/CRUD-APP/static/js/main.68a44844.js",
     "index.html": "/CRUD-APP/index.html",
-    "main.4fc79e22.css.map": "/CRUD-APP/static/css/main.4fc79e22.css.map",
-    "main.91e7ae79.js.map": "/CRUD-APP/static/js/main.91e7ae79.js.map",
-    "787.96d01803.chunk.js.map": "/CRUD-APP/static/js/787.96d01803.chunk.js.map"
+    "main.b70b0036.css.map": "/CRUD-APP/static/css/main.b70b0036.css.map",
+    "main.68a44844.js.map": "/CRUD-APP/static/js/main.68a44844.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fc79e22.css",
-    "static/js/main.91e7ae79.js"
+    "static/css/main.b70b0036.css",
+    "static/js/main.68a44844.js"
   ]
 }
